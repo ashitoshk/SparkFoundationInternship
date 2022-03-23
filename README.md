@@ -20,7 +20,7 @@ We need to predict the score of the student if he/she studies for 9.25 hrs/day.
 I will be implementing this with the help of K-Means Clustering algorithm. </br>
 <li>Dataset for this model can be found at : https://bit.ly/3kXTdox.</br>
 <li>Code for this model can be found at : <a href = "https://github.com/ashitoshk/SparkFoundationInternship/blob/main/Task_2_TSF(UnSupervised%20Learning-Prediction).ipynb">Task_2_Code</a>.</br>
-<li>Video for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task2/TSF%20Task_2.mp4">Task_2_Video</a>.</br>
+<li>Video for this model can be found at : <a href = "https://www.linkedin.com/posts/ashitosh-kadam-83008220b_grip-intern-datascience-activity-6912478381838057472-KjFT?utm_source=linkedin_share&utm_medium=member_desktop_web">Task_2_Video</a>.</br>
 
 ### What are we supposed to do with the given dataset?
 We need to predict the optimum number of clusters and it's visualization.
