@@ -30,7 +30,7 @@ We need to predict the optimum number of clusters and it's visualization.
 I will be doing this with the help of python libraries i.e. matplotlib, plotly, plotnine and seaborn. 
 <li>Dataset can be found at : https://bit.ly/3i4rbWl.</br>
 <li>Code for this model can be found at : <a href = "https://github.com/ashitoshk/SparkFoundationInternship/blob/main/Task_3_TSF(Exploratory%20Data%20Analysis%20-%20Retail).ipynb">Task_3_Code</a>.</br>
-<li>Video for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task3/TSF%20Task3.mp4">Task_3_Video</a>.</br>
+<li>Video for this model can be found at : <a href = "https://www.linkedin.com/posts/ashitosh-kadam-83008220b_grip-intern-datascience-activity-6912480998731452416-d8cP?utm_source=linkedin_share&utm_medium=member_desktop_web">Task_3_Video</a>.</br>
 
 ### What are we supposed to do with the given dataset?
 As a business manager, we will try to find out the weak areas where we can work tomake more profit. Also, what all business problems can be derived by exploring the data.
